@@ -25,7 +25,7 @@ public class TriangleClassifier {
         {
             System.out.println("Isosceles Triangle");
         }
-            else
+        else
         {
             System.out.println("Scalene Triangle");
         }
