@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="302a974c-b094-4a7e-af67-0cc72b678c01" name="Changes" comment="Commit LeapYearCode">
+    <list default="true" id="302a974c-b094-4a7e-af67-0cc72b678c01" name="Changes" comment="Commit TriangleClassifier">
+      <change afterPath="$PROJECT_DIR$/src/PracticeQues_07202024/FizzBuzz.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PracticeQues_07202024/TriangleClassifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeQues_07202024/TriangleClassifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticeQues_07202024/LeapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeQues_07202024/LeapYear.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +47,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.FizzBuzz.executor": "Run",
     "Application.LeapYear.executor": "Run",
     "Application.TriangleClassifier.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -53,7 +55,20 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TriangleClassifier">
+  <component name="RunManager" selected="Application.FizzBuzz">
+    <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeQues_07202024.FizzBuzz" />
+      <module name="ATB7xLearningJava1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PracticeQues_07202024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PracticeQues_07202024.LeapYear" />
       <module name="ATB7xLearningJava1.0" />
@@ -82,8 +97,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TriangleClassifier" />
+        <item itemvalue="Application.FizzBuzz" />
         <item itemvalue="Application.LeapYear" />
+        <item itemvalue="Application.TriangleClassifier" />
       </list>
     </recent_temporary>
   </component>
@@ -104,11 +120,28 @@
       <option name="project" value="LOCAL" />
       <updated>1721492785917</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit LeapYearCode">
+      <option name="closed" value="true" />
+      <created>1721497538665</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1721497538665</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Commit TriangleClassifier">
+      <option name="closed" value="true" />
+      <created>1721497594060</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1721497594060</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit LeapYearCode" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit LeapYearCode" />
+    <MESSAGE value="Commit TriangleClassifier" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit TriangleClassifier" />
   </component>
 </project>
