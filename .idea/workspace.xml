@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="302a974c-b094-4a7e-af67-0cc72b678c01" name="Changes" comment="Practice Quest Left and Right Star Pattern">
+    <list default="true" id="302a974c-b094-4a7e-af67-0cc72b678c01" name="Changes" comment="Print Table Program">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +38,9 @@
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2jVgBTcEGlezzedtZVQpsJv9ZHc" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -67,9 +69,27 @@
     "Application.Lab073.executor": "Run",
     "Application.Lab074.executor": "Debug",
     "Application.Lab075.executor": "Run",
+    "Application.Lab076.executor": "Run",
+    "Application.Lab077.executor": "Debug",
+    "Application.Lab078.executor": "Run",
+    "Application.Lab079.executor": "Run",
+    "Application.Lab080.executor": "Run",
+    "Application.Lab081.executor": "Run",
+    "Application.Lab082.executor": "Run",
+    "Application.Lab083.executor": "Run",
+    "Application.Lab085.executor": "Run",
+    "Application.Lab086.executor": "Run",
+    "Application.Lab087.executor": "Run",
+    "Application.Lab088.executor": "Debug",
+    "Application.Lab089.executor": "Run",
+    "Application.Lab090.executor": "Debug",
+    "Application.Lab091.executor": "Debug",
+    "Application.Lab092.executor": "Run",
+    "Application.Lab093.executor": "Run",
+    "Application.Lab094.executor": "Debug",
     "Application.LeapYear.executor": "Run",
     "Application.LeftPatterStarProgram.executor": "Debug",
-    "Application.PrintTable.executor": "Debug",
+    "Application.PrintTable.executor": "Run",
     "Application.PyramidPattern.executor": "Run",
     "Application.StarPatternProgram.executor": "Run",
     "Application.TriangleClassifier.executor": "Run",
@@ -79,13 +99,13 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PrintTable">
-    <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeQues_07202024.FizzBuzz" />
+  <component name="RunManager" selected="Application.Lab095">
+    <configuration name="Lab091" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_07212024.Lab091" />
       <module name="ATB7xLearningJava1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PracticeQues_07202024.*" />
+          <option name="PATTERN" value="ex_07212024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeftPatterStarProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeQues_07202024.LeftPatterStarProgram" />
+    <configuration name="Lab092" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_07212024.Lab092" />
       <module name="ATB7xLearningJava1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PracticeQues_07202024.*" />
+          <option name="PATTERN" value="ex_07212024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeQues_07202024.PrintTable" />
+    <configuration name="Lab093" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_07212024.Lab093" />
       <module name="ATB7xLearningJava1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PracticeQues_07202024.*" />
+          <option name="PATTERN" value="ex_07212024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PyramidPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeQues_07202024.PyramidPattern" />
+    <configuration name="Lab094" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_07212024.Lab094" />
       <module name="ATB7xLearningJava1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PracticeQues_07202024.*" />
+          <option name="PATTERN" value="ex_07212024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StarPatternProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeQues_07202024.StarPatternProgram" />
+    <configuration name="Lab095" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_07212024.Lab095" />
       <module name="ATB7xLearningJava1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PracticeQues_07202024.*" />
+          <option name="PATTERN" value="ex_07212024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PrintTable" />
-        <item itemvalue="Application.PyramidPattern" />
-        <item itemvalue="Application.LeftPatterStarProgram" />
-        <item itemvalue="Application.StarPatternProgram" />
-        <item itemvalue="Application.FizzBuzz" />
+        <item itemvalue="Application.Lab095" />
+        <item itemvalue="Application.Lab094" />
+        <item itemvalue="Application.Lab093" />
+        <item itemvalue="Application.Lab092" />
+        <item itemvalue="Application.Lab091" />
       </list>
     </recent_temporary>
   </component>
@@ -220,7 +240,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721802032404</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Print Table Program">
+      <option name="closed" value="true" />
+      <created>1721973041207</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1721973041207</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -229,7 +257,8 @@
     <MESSAGE value="commit" />
     <MESSAGE value="commit lab ex for 20th July" />
     <MESSAGE value="Practice Quest Left and Right Star Pattern" />
-    <option name="LAST_COMMIT_MESSAGE" value="Practice Quest Left and Right Star Pattern" />
+    <MESSAGE value="Print Table Program" />
+    <option name="LAST_COMMIT_MESSAGE" value="Print Table Program" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -304,6 +333,51 @@
           <line>5</line>
           <option name="timeStamp" value="33" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ex_07212024/Lab076.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ex_07212024/Lab077.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ex_07212024/Lab080.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ex_07212024/Lab082.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ex_07212024/Lab088.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ex_07212024/Lab090.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ex_07212024/Lab091.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ex_07212024/Lab093.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ex_07212024/Lab094.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/PracticeQues_07202024/LeftPatterStarProgram.java</url>
           <line>3</line>
@@ -312,6 +386,24 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ex_07212024/Lab077.java</url>
+          <line>3</line>
+          <properties class="ex_07212024.Lab077" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ex_07212024/Lab092.java</url>
+          <line>3</line>
+          <properties class="ex_07212024.Lab092" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="43" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
