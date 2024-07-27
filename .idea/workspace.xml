@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="302a974c-b094-4a7e-af67-0cc72b678c01" name="Changes" comment="Print Table Program">
+    <list default="true" id="302a974c-b094-4a7e-af67-0cc72b678c01" name="Changes" comment="Commit for loop programs">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07212024/Lab096.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_07212024/Lab096.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,6 +88,17 @@
     "Application.Lab092.executor": "Run",
     "Application.Lab093.executor": "Run",
     "Application.Lab094.executor": "Debug",
+    "Application.Lab096.executor": "Run",
+    "Application.Lab097.executor": "Run",
+    "Application.Lab098.executor": "Debug",
+    "Application.Lab099.executor": "Debug",
+    "Application.Lab100.executor": "Debug",
+    "Application.Lab101.executor": "Debug",
+    "Application.Lab102.executor": "Run",
+    "Application.Lab103.executor": "Run",
+    "Application.Lab105.executor": "Run",
+    "Application.Lab106.executor": "Run",
+    "Application.Lan095.executor": "Run",
     "Application.LeapYear.executor": "Run",
     "Application.LeftPatterStarProgram.executor": "Debug",
     "Application.PrintTable.executor": "Run",
@@ -99,9 +111,9 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab095">
-    <configuration name="Lab091" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_07212024.Lab091" />
+  <component name="RunManager" selected="Application.Lab106">
+    <configuration name="Lab101" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_07212024.Lab101" />
       <module name="ATB7xLearningJava1.0" />
       <extension name="coverage">
         <pattern>
@@ -113,8 +125,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab092" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_07212024.Lab092" />
+    <configuration name="Lab102" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_07212024.Lab102" />
       <module name="ATB7xLearningJava1.0" />
       <extension name="coverage">
         <pattern>
@@ -126,8 +138,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab093" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_07212024.Lab093" />
+    <configuration name="Lab103" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_07212024.Lab103" />
       <module name="ATB7xLearningJava1.0" />
       <extension name="coverage">
         <pattern>
@@ -139,8 +151,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab094" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_07212024.Lab094" />
+    <configuration name="Lab105" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_07212024.Lab105" />
       <module name="ATB7xLearningJava1.0" />
       <extension name="coverage">
         <pattern>
@@ -152,8 +164,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab095" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_07212024.Lab095" />
+    <configuration name="Lab106" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_07212024.Lab106" />
       <module name="ATB7xLearningJava1.0" />
       <extension name="coverage">
         <pattern>
@@ -167,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab095" />
-        <item itemvalue="Application.Lab094" />
-        <item itemvalue="Application.Lab093" />
-        <item itemvalue="Application.Lab092" />
-        <item itemvalue="Application.Lab091" />
+        <item itemvalue="Application.Lab106" />
+        <item itemvalue="Application.Lab105" />
+        <item itemvalue="Application.Lab103" />
+        <item itemvalue="Application.Lab102" />
+        <item itemvalue="Application.Lab101" />
       </list>
     </recent_temporary>
   </component>
@@ -248,7 +260,23 @@
       <option name="project" value="LOCAL" />
       <updated>1721973041207</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Commit for loop programs">
+      <option name="closed" value="true" />
+      <created>1721989025367</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1721989025367</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Commit for loop programs">
+      <option name="closed" value="true" />
+      <created>1721989076021</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1721989076021</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -258,7 +286,8 @@
     <MESSAGE value="commit lab ex for 20th July" />
     <MESSAGE value="Practice Quest Left and Right Star Pattern" />
     <MESSAGE value="Print Table Program" />
-    <option name="LAST_COMMIT_MESSAGE" value="Print Table Program" />
+    <MESSAGE value="Commit for loop programs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit for loop programs" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -377,6 +406,26 @@
           <url>file://$PROJECT_DIR$/src/ex_07212024/Lab094.java</url>
           <line>5</line>
           <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ex_07212024/Lab099.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ex_07212024/Lab100.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ex_07212024/Lab101.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ex_07212024/Lab103.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="50" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/PracticeQues_07202024/LeftPatterStarProgram.java</url>
