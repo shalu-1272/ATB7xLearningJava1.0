@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="302a974c-b094-4a7e-af67-0cc72b678c01" name="Changes" comment="Lab exercises">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_07212024/Lab106.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_07212024/Lab106.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +47,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AvgArrayElements.executor": "Run",
     "Application.FizzBuzz.executor": "Run",
     "Application.Lab053.executor": "Run",
     "Application.Lab054.executor": "Run",
@@ -114,14 +114,18 @@
     "Application.Lab121.executor": "Run",
     "Application.Lab122.executor": "Run",
     "Application.Lan095.executor": "Run",
+    "Application.LargestElementArray.executor": "Run",
     "Application.LeapYear.executor": "Run",
     "Application.LeftPatterStarProgram.executor": "Run",
     "Application.PrintTable.executor": "Run",
     "Application.PyramidPattern.executor": "Run",
     "Application.PyramidStructure.executor": "Debug",
-    "Application.ReverseArray.executor": "Run",
+    "Application.ReverseArray.executor": "Debug",
+    "Application.SearchingforanArrayLinearSearch.executor": "Run",
     "Application.SecondHighestNum.executor": "Debug",
+    "Application.SmallestElementInArray.executor": "Run",
     "Application.StarPatternProgram.executor": "Run",
+    "Application.SumofArrayElements.executor": "Debug",
     "Application.TriangleClassifier.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -130,35 +134,9 @@
     "settings.editor.selected.configurable": "editor.preferences.gutterIcons"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ReverseArray">
-    <configuration name="Lab121" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_07272024.Lab121" />
-      <module name="ATB7xLearningJava1.0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_07272024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab122" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_07272024.Lab122" />
-      <module name="ATB7xLearningJava1.0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_07272024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LeftPatterStarProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeQues_07202024.LeftPatterStarProgram" />
+  <component name="RunManager" selected="Application.SearchingforanArrayLinearSearch">
+    <configuration name="AvgArrayElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeQues_07202024.AvgArrayElements" />
       <module name="ATB7xLearningJava1.0" />
       <extension name="coverage">
         <pattern>
@@ -170,8 +148,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeQues_07202024.ReverseArray" />
+    <configuration name="LargestElementArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeQues_07202024.LargestElementArray" />
       <module name="ATB7xLearningJava1.0" />
       <extension name="coverage">
         <pattern>
@@ -183,8 +161,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StarPatternProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeQues_07202024.StarPatternProgram" />
+    <configuration name="SearchingforanArrayLinearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeQues_07202024.SearchingforanArrayLinearSearch" />
+      <module name="ATB7xLearningJava1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PracticeQues_07202024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmallestElementInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeQues_07202024.SmallestElementInArray" />
+      <module name="ATB7xLearningJava1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PracticeQues_07202024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumofArrayElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeQues_07202024.SumofArrayElements" />
       <module name="ATB7xLearningJava1.0" />
       <extension name="coverage">
         <pattern>
@@ -197,19 +201,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lab121" />
-      <item itemvalue="Application.Lab122" />
-      <item itemvalue="Application.LeftPatterStarProgram" />
-      <item itemvalue="Application.ReverseArray" />
-      <item itemvalue="Application.StarPatternProgram" />
+      <item itemvalue="Application.AvgArrayElements" />
+      <item itemvalue="Application.LargestElementArray" />
+      <item itemvalue="Application.SearchingforanArrayLinearSearch" />
+      <item itemvalue="Application.SmallestElementInArray" />
+      <item itemvalue="Application.SumofArrayElements" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReverseArray" />
-        <item itemvalue="Application.LeftPatterStarProgram" />
-        <item itemvalue="Application.Lab122" />
-        <item itemvalue="Application.StarPatternProgram" />
-        <item itemvalue="Application.Lab121" />
+        <item itemvalue="Application.SearchingforanArrayLinearSearch" />
+        <item itemvalue="Application.AvgArrayElements" />
+        <item itemvalue="Application.SumofArrayElements" />
+        <item itemvalue="Application.SmallestElementInArray" />
+        <item itemvalue="Application.LargestElementArray" />
       </list>
     </recent_temporary>
   </component>
@@ -318,7 +322,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722055028293</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Lab exercises">
+      <option name="closed" value="true" />
+      <created>1722417524763</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1722417524763</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -490,6 +502,26 @@
           <line>11</line>
           <option name="timeStamp" value="65" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PracticeQues_07202024/ReverseArray.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PracticeQues_07202024/SmallestElementInArray.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PracticeQues_07202024/SumofArrayElements.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PracticeQues_07202024/SearchingforanArrayLinearSearch.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/PracticeQues_07202024/LeftPatterStarProgram.java</url>
           <line>3</line>
@@ -525,6 +557,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/PracticeQues_07202024/AvgArrayElements.java</url>
+          <line>3</line>
+          <properties class="PracticeQues_07202024.AvgArrayElements" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="73" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
