@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="302a974c-b094-4a7e-af67-0cc72b678c01" name="Changes" comment="PracticePrograms">
+    <list default="true" id="302a974c-b094-4a7e-af67-0cc72b678c01" name="Changes" comment="Classes and Object ClassWork">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PracticeQues_07202024/SecondHighestNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticeQues_07202024/SecondHighestNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_07282024/Lab123.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_07282024/Lab123.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07282024/Lab127.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_07282024/Lab127.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,6 +120,7 @@
     "Application.LargestElementArray.executor": "Run",
     "Application.LeapYear.executor": "Run",
     "Application.LeftPatterStarProgram.executor": "Run",
+    "Application.Palindrome.executor": "Debug",
     "Application.PrintTable.executor": "Run",
     "Application.PyramidPattern.executor": "Run",
     "Application.PyramidStructure.executor": "Debug",
@@ -138,7 +138,7 @@
     "settings.editor.selected.configurable": "editor.preferences.gutterIcons"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab127">
+  <component name="RunManager" selected="Application.PalindromeStringHardcoded">
     <configuration name="Animal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_07282024.Animal" />
       <module name="ATB7xLearningJava1.0" />
@@ -178,8 +178,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchingforanArrayLinearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeQues_07202024.SearchingforanArrayLinearSearch" />
+    <configuration name="PalindromeStringHardcoded" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeQues_07202024.PalindromeStringHardcoded" />
       <module name="ATB7xLearningJava1.0" />
       <extension name="coverage">
         <pattern>
@@ -191,8 +191,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumofArrayElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeQues_07202024.SumofArrayElements" />
+    <configuration name="SearchingforanArrayLinearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeQues_07202024.SearchingforanArrayLinearSearch" />
       <module name="ATB7xLearningJava1.0" />
       <extension name="coverage">
         <pattern>
@@ -207,17 +207,17 @@
     <list>
       <item itemvalue="Application.Animal" />
       <item itemvalue="Application.Lab127" />
+      <item itemvalue="Application.PalindromeStringHardcoded" />
       <item itemvalue="Application.AvgArrayElements" />
       <item itemvalue="Application.SearchingforanArrayLinearSearch" />
-      <item itemvalue="Application.SumofArrayElements" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PalindromeStringHardcoded" />
         <item itemvalue="Application.Lab127" />
         <item itemvalue="Application.Animal" />
         <item itemvalue="Application.SearchingforanArrayLinearSearch" />
         <item itemvalue="Application.AvgArrayElements" />
-        <item itemvalue="Application.SumofArrayElements" />
       </list>
     </recent_temporary>
   </component>
@@ -342,7 +342,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722522993866</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Classes and Object ClassWork">
+      <option name="closed" value="true" />
+      <created>1722761521348</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1722761521348</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -366,7 +374,8 @@
     <MESSAGE value="Commit for loop programs" />
     <MESSAGE value="Lab exercises" />
     <MESSAGE value="PracticePrograms" />
-    <option name="LAST_COMMIT_MESSAGE" value="PracticePrograms" />
+    <MESSAGE value="Classes and Object ClassWork" />
+    <option name="LAST_COMMIT_MESSAGE" value="Classes and Object ClassWork" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -545,6 +554,11 @@
           <url>file://$PROJECT_DIR$/src/ex_07282024/Bank.java</url>
           <line>7</line>
           <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PracticeQues_07202024/PalindromeStringHardcoded.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="81" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/PracticeQues_07202024/LeftPatterStarProgram.java</url>

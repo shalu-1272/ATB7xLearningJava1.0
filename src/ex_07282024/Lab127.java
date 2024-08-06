@@ -1,5 +1,7 @@
 package ex_07282024;
 
+import static java.lang.System.out;
+
 public class Lab127 {
     public static void main(String[] args) {
         Bank bank1 = new Bank();
@@ -11,8 +13,8 @@ public class Lab127 {
         bank2.bankName = "ICICI";
         bank2.balance = 15000000;
 
-        System.out.println("Bank Name is:" + '\t' + bank1.bankName + '\n' + "Account balance is:" + '\t' + bank1.balance);
+        out.println("Bank Name is:" + '\t' + bank1.bankName + '\n' + "Account balance is:" + '\t' + bank1.balance);
        bank2.balance = 6000;  //can change the value anytime
-        System.out.println(bank2.bankName + '\t' + bank2.balance);
+        out.println(bank2.bankName + '\t' + bank2.balance);
     }
 }
