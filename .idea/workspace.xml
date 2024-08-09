@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="302a974c-b094-4a7e-af67-0cc72b678c01" name="Changes" comment="Classes and Object ClassWork">
+    <list default="true" id="302a974c-b094-4a7e-af67-0cc72b678c01" name="Changes" comment="Palindrome">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_07282024/Lab127.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_07282024/Lab127.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,6 +115,10 @@
     "Application.Lab121.executor": "Run",
     "Application.Lab122.executor": "Run",
     "Application.Lab127.executor": "Run",
+    "Application.Lab128.executor": "Run",
+    "Application.Lab129.executor": "Run",
+    "Application.Lab132.executor": "Run",
+    "Application.Lab133.executor": "Run",
     "Application.Lan095.executor": "Run",
     "Application.LargestElementArray.executor": "Run",
     "Application.LeapYear.executor": "Run",
@@ -138,13 +141,13 @@
     "settings.editor.selected.configurable": "editor.preferences.gutterIcons"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PalindromeStringHardcoded">
-    <configuration name="Animal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_07282024.Animal" />
+  <component name="RunManager" selected="Application.Lab133">
+    <configuration name="Lab128" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_08042024.Lab128" />
       <module name="ATB7xLearningJava1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_07282024.*" />
+          <option name="PATTERN" value="ex_08042024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,12 +155,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AvgArrayElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeQues_07202024.AvgArrayElements" />
+    <configuration name="Lab129" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_08042024.Lab129" />
       <module name="ATB7xLearningJava1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PracticeQues_07202024.*" />
+          <option name="PATTERN" value="ex_08042024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,12 +168,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab127" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_07282024.Lab127" />
+    <configuration name="Lab132" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_08042024.Lab132" />
       <module name="ATB7xLearningJava1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_07282024.*" />
+          <option name="PATTERN" value="ex_08042024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab133" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_08042024.Lab133" />
+      <module name="ATB7xLearningJava1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_08042024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -191,33 +207,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchingforanArrayLinearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeQues_07202024.SearchingforanArrayLinearSearch" />
-      <module name="ATB7xLearningJava1.0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PracticeQues_07202024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.Animal" />
-      <item itemvalue="Application.Lab127" />
+      <item itemvalue="Application.Lab128" />
+      <item itemvalue="Application.Lab129" />
+      <item itemvalue="Application.Lab132" />
+      <item itemvalue="Application.Lab133" />
       <item itemvalue="Application.PalindromeStringHardcoded" />
-      <item itemvalue="Application.AvgArrayElements" />
-      <item itemvalue="Application.SearchingforanArrayLinearSearch" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab133" />
+        <item itemvalue="Application.Lab132" />
+        <item itemvalue="Application.Lab129" />
+        <item itemvalue="Application.Lab128" />
         <item itemvalue="Application.PalindromeStringHardcoded" />
-        <item itemvalue="Application.Lab127" />
-        <item itemvalue="Application.Animal" />
-        <item itemvalue="Application.SearchingforanArrayLinearSearch" />
-        <item itemvalue="Application.AvgArrayElements" />
       </list>
     </recent_temporary>
   </component>
@@ -350,7 +353,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722761521348</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Palindrome">
+      <option name="closed" value="true" />
+      <created>1722924984285</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1722924984285</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -375,7 +386,8 @@
     <MESSAGE value="Lab exercises" />
     <MESSAGE value="PracticePrograms" />
     <MESSAGE value="Classes and Object ClassWork" />
-    <option name="LAST_COMMIT_MESSAGE" value="Classes and Object ClassWork" />
+    <MESSAGE value="Palindrome" />
+    <option name="LAST_COMMIT_MESSAGE" value="Palindrome" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
