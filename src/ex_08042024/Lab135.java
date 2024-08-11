@@ -30,7 +30,7 @@ public class Lab135 {
         BankAccount ICICI = new BankAccount(name,accountNo,bal);
 
         b1.printDetails();
-        System.out.println();di
+        System.out.println();
         ICICI.printDetails();
 
     }
