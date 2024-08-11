@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="302a974c-b094-4a7e-af67-0cc72b678c01" name="Changes" comment="Palindrome">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_08042024/Lab134.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_08042024/BankAccount.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,6 +120,8 @@
     "Application.Lab129.executor": "Run",
     "Application.Lab132.executor": "Run",
     "Application.Lab133.executor": "Run",
+    "Application.Lab135.executor": "Run",
+    "Application.Lab137.executor": "Run",
     "Application.Lan095.executor": "Run",
     "Application.LargestElementArray.executor": "Run",
     "Application.LeapYear.executor": "Run",
@@ -134,6 +137,7 @@
     "Application.StarPatternProgram.executor": "Run",
     "Application.SumofArrayElements.executor": "Debug",
     "Application.TriangleClassifier.executor": "Run",
+    "Application.lAB138.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -141,33 +145,7 @@
     "settings.editor.selected.configurable": "editor.preferences.gutterIcons"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab133">
-    <configuration name="Lab128" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_08042024.Lab128" />
-      <module name="ATB7xLearningJava1.0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_08042024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab129" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_08042024.Lab129" />
-      <module name="ATB7xLearningJava1.0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_08042024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab138">
     <configuration name="Lab132" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_08042024.Lab132" />
       <module name="ATB7xLearningJava1.0" />
@@ -194,12 +172,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromeStringHardcoded" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PracticeQues_07202024.PalindromeStringHardcoded" />
+    <configuration name="Lab135" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_08042024.Lab135" />
       <module name="ATB7xLearningJava1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PracticeQues_07202024.*" />
+          <option name="PATTERN" value="ex_08042024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab137" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_08042024.SungleInheritance.Lab137" />
+      <module name="ATB7xLearningJava1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_08042024.SungleInheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab138" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_08042024.MultiLevelInheritance.Lab138" />
+      <module name="ATB7xLearningJava1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_08042024.MultiLevelInheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -208,19 +212,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lab128" />
-      <item itemvalue="Application.Lab129" />
       <item itemvalue="Application.Lab132" />
       <item itemvalue="Application.Lab133" />
-      <item itemvalue="Application.PalindromeStringHardcoded" />
+      <item itemvalue="Application.Lab135" />
+      <item itemvalue="Application.Lab137" />
+      <item itemvalue="Application.Lab138" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab138" />
+        <item itemvalue="Application.Lab137" />
+        <item itemvalue="Application.Lab135" />
         <item itemvalue="Application.Lab133" />
         <item itemvalue="Application.Lab132" />
-        <item itemvalue="Application.Lab129" />
-        <item itemvalue="Application.Lab128" />
-        <item itemvalue="Application.PalindromeStringHardcoded" />
       </list>
     </recent_temporary>
   </component>
@@ -361,7 +365,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722924984285</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Palindrome">
+      <option name="closed" value="true" />
+      <created>1723185296949</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1723185296949</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
