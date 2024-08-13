@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="302a974c-b094-4a7e-af67-0cc72b678c01" name="Changes" comment="Palindrome">
+    <list default="true" id="302a974c-b094-4a7e-af67-0cc72b678c01" name="Changes" comment="4thAUGUST">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_08042024/Lab134.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_08042024/BankAccount.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,6 +120,7 @@
     "Application.Lab132.executor": "Run",
     "Application.Lab133.executor": "Run",
     "Application.Lab135.executor": "Run",
+    "Application.Lab136.executor": "Run",
     "Application.Lab137.executor": "Run",
     "Application.Lan095.executor": "Run",
     "Application.LargestElementArray.executor": "Run",
@@ -137,7 +137,9 @@
     "Application.StarPatternProgram.executor": "Run",
     "Application.SumofArrayElements.executor": "Debug",
     "Application.TriangleClassifier.executor": "Run",
+    "Application.jrcop.executor": "Run",
     "Application.lAB138.executor": "Run",
+    "Application.thief.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -145,39 +147,13 @@
     "settings.editor.selected.configurable": "editor.preferences.gutterIcons"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab138">
-    <configuration name="Lab132" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_08042024.Lab132" />
+  <component name="RunManager" selected="Application.jrcop">
+    <configuration name="Lab136" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_08042024.hierachical.Lab136" />
       <module name="ATB7xLearningJava1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_08042024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab133" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_08042024.Lab133" />
-      <module name="ATB7xLearningJava1.0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_08042024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab135" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_08042024.Lab135" />
-      <module name="ATB7xLearningJava1.0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_08042024.*" />
+          <option name="PATTERN" value="ex_08042024.hierachical.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -211,20 +187,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="jrcop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_08042024.accessmodifiers.police.jrcop" />
+      <module name="ATB7xLearningJava1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_08042024.accessmodifiers.police.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="thief" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_08042024.accessmodifiers.criminal.thief" />
+      <module name="ATB7xLearningJava1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_08042024.accessmodifiers.criminal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Lab132" />
-      <item itemvalue="Application.Lab133" />
-      <item itemvalue="Application.Lab135" />
+      <item itemvalue="Application.jrcop" />
+      <item itemvalue="Application.thief" />
+      <item itemvalue="Application.Lab136" />
       <item itemvalue="Application.Lab137" />
       <item itemvalue="Application.Lab138" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.jrcop" />
+        <item itemvalue="Application.thief" />
+        <item itemvalue="Application.Lab136" />
         <item itemvalue="Application.Lab138" />
         <item itemvalue="Application.Lab137" />
-        <item itemvalue="Application.Lab135" />
-        <item itemvalue="Application.Lab133" />
-        <item itemvalue="Application.Lab132" />
       </list>
     </recent_temporary>
   </component>
@@ -373,7 +375,31 @@
       <option name="project" value="LOCAL" />
       <updated>1723185296949</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="4thAUGUST">
+      <option name="closed" value="true" />
+      <created>1723375267681</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1723375267681</updated>
+    </task>
+    <task id="LOCAL-00019" summary="4thAUGUST">
+      <option name="closed" value="true" />
+      <created>1723375273896</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1723375273896</updated>
+    </task>
+    <task id="LOCAL-00020" summary="4thAUGUST">
+      <option name="closed" value="true" />
+      <created>1723375318825</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1723375318825</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -399,7 +425,8 @@
     <MESSAGE value="PracticePrograms" />
     <MESSAGE value="Classes and Object ClassWork" />
     <MESSAGE value="Palindrome" />
-    <option name="LAST_COMMIT_MESSAGE" value="Palindrome" />
+    <MESSAGE value="4thAUGUST" />
+    <option name="LAST_COMMIT_MESSAGE" value="4thAUGUST" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
