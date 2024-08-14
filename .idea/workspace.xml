@@ -6,6 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="302a974c-b094-4a7e-af67-0cc72b678c01" name="Changes" comment="4thAUGUST">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/real/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/real_08042024/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/real/GrandBaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/real_08042024/GrandBaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/real/TestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/real_08042024/TestCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/real/TestCase1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/real_08042024/TestCase1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,6 +126,9 @@
     "Application.Lab135.executor": "Run",
     "Application.Lab136.executor": "Run",
     "Application.Lab137.executor": "Run",
+    "Application.Lab140.executor": "Run",
+    "Application.Lab141.executor": "Run",
+    "Application.Lab142.executor": "Run",
     "Application.Lan095.executor": "Run",
     "Application.LargestElementArray.executor": "Run",
     "Application.LeapYear.executor": "Run",
@@ -147,13 +154,13 @@
     "settings.editor.selected.configurable": "editor.preferences.gutterIcons"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.jrcop">
-    <configuration name="Lab136" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_08042024.hierachical.Lab136" />
+  <component name="RunManager" selected="Application.Lab142">
+    <configuration name="Lab140" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_08102024.encapsulation.Lab140" />
       <module name="ATB7xLearningJava1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_08042024.hierachical.*" />
+          <option name="PATTERN" value="ex_08102024.encapsulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,12 +168,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab137" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_08042024.SungleInheritance.Lab137" />
+    <configuration name="Lab141" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_08102024.encapsulation.Lab141" />
       <module name="ATB7xLearningJava1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_08042024.SungleInheritance.*" />
+          <option name="PATTERN" value="ex_08102024.encapsulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,12 +181,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab138" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_08042024.MultiLevelInheritance.Lab138" />
+    <configuration name="Lab142" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_08102024.encapsulation.Lab142" />
       <module name="ATB7xLearningJava1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_08042024.MultiLevelInheritance.*" />
+          <option name="PATTERN" value="ex_08102024.encapsulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -214,19 +221,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Lab140" />
+      <item itemvalue="Application.Lab141" />
+      <item itemvalue="Application.Lab142" />
       <item itemvalue="Application.jrcop" />
       <item itemvalue="Application.thief" />
-      <item itemvalue="Application.Lab136" />
-      <item itemvalue="Application.Lab137" />
-      <item itemvalue="Application.Lab138" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab142" />
+        <item itemvalue="Application.Lab141" />
+        <item itemvalue="Application.Lab140" />
         <item itemvalue="Application.jrcop" />
         <item itemvalue="Application.thief" />
-        <item itemvalue="Application.Lab136" />
-        <item itemvalue="Application.Lab138" />
-        <item itemvalue="Application.Lab137" />
       </list>
     </recent_temporary>
   </component>
@@ -399,7 +406,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723375318825</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="4thAUGUST">
+      <option name="closed" value="true" />
+      <created>1723526614613</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1723526614613</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
