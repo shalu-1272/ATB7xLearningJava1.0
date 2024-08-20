@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="302a974c-b094-4a7e-af67-0cc72b678c01" name="Changes" comment="4thAUGUST">
+    <list default="true" id="302a974c-b094-4a7e-af67-0cc72b678c01" name="Changes" comment="10thAUGUST">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/real/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/real_08042024/BaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/real/GrandBaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/real_08042024/GrandBaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/real/TestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/real_08042024/TestCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/real/TestCase1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/real_08042024/TestCase1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,6 +125,7 @@
     "Application.Lab140.executor": "Run",
     "Application.Lab141.executor": "Run",
     "Application.Lab142.executor": "Run",
+    "Application.Lab143.executor": "Run",
     "Application.Lan095.executor": "Run",
     "Application.LargestElementArray.executor": "Run",
     "Application.LeapYear.executor": "Run",
@@ -154,7 +151,7 @@
     "settings.editor.selected.configurable": "editor.preferences.gutterIcons"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab142">
+  <component name="RunManager" selected="Application.Lab143">
     <configuration name="Lab140" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_08102024.encapsulation.Lab140" />
       <module name="ATB7xLearningJava1.0" />
@@ -194,6 +191,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab143" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_08102024.poly.Lab143" />
+      <module name="ATB7xLearningJava1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_08102024.poly.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="jrcop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_08042024.accessmodifiers.police.jrcop" />
       <module name="ATB7xLearningJava1.0" />
@@ -207,33 +217,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="thief" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_08042024.accessmodifiers.criminal.thief" />
-      <module name="ATB7xLearningJava1.0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_08042024.accessmodifiers.criminal.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.Lab140" />
       <item itemvalue="Application.Lab141" />
       <item itemvalue="Application.Lab142" />
+      <item itemvalue="Application.Lab143" />
       <item itemvalue="Application.jrcop" />
-      <item itemvalue="Application.thief" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab143" />
         <item itemvalue="Application.Lab142" />
         <item itemvalue="Application.Lab141" />
         <item itemvalue="Application.Lab140" />
         <item itemvalue="Application.jrcop" />
-        <item itemvalue="Application.thief" />
       </list>
     </recent_temporary>
   </component>
@@ -414,7 +411,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723526614613</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="10thAUGUST">
+      <option name="closed" value="true" />
+      <created>1723637062004</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1723637062004</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -441,7 +446,8 @@
     <MESSAGE value="Classes and Object ClassWork" />
     <MESSAGE value="Palindrome" />
     <MESSAGE value="4thAUGUST" />
-    <option name="LAST_COMMIT_MESSAGE" value="4thAUGUST" />
+    <MESSAGE value="10thAUGUST" />
+    <option name="LAST_COMMIT_MESSAGE" value="10thAUGUST" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
