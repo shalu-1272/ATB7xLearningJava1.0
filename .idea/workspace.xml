@@ -6,6 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="302a974c-b094-4a7e-af67-0cc72b678c01" name="Changes" comment="10thAUGUST">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/real_08042024/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_08042024/real_08042024/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/real_08042024/GrandBaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_08042024/real_08042024/GrandBaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/real_08042024/TestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_08042024/real_08042024/TestCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/real_08042024/TestCase1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_08042024/real_08042024/TestCase1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,6 +133,7 @@
     "Application.Lab145.executor": "Debug",
     "Application.Lab146.executor": "Run",
     "Application.Lab147.executor": "Run",
+    "Application.Lab149.executor": "Run",
     "Application.Lan095.executor": "Run",
     "Application.LargestElementArray.executor": "Run",
     "Application.LeapYear.executor": "Run",
@@ -155,20 +160,7 @@
     "settings.editor.selected.configurable": "editor.preferences.gutterIcons"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.realtimeinheritance">
-    <configuration name="Lab143" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_08102024.poly.methodoverloading.Lab143" />
-      <module name="ATB7xLearningJava1.0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_08102024.poly.methodoverloading.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab149">
     <configuration name="Lab145" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_08102024.poly.methodoverriding.Lab145" />
       <module name="ATB7xLearningJava1.0" />
@@ -208,6 +200,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab149" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_08112024.excar.Lab149" />
+      <module name="ATB7xLearningJava1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_08112024.excar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="realtimeinheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_08102024.realtimeinheritance" />
       <module name="ATB7xLearningJava1.0" />
@@ -222,7 +227,7 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lab143" />
+      <item itemvalue="Application.Lab149" />
       <item itemvalue="Application.Lab145" />
       <item itemvalue="Application.Lab146" />
       <item itemvalue="Application.Lab147" />
@@ -230,11 +235,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab149" />
         <item itemvalue="Application.realtimeinheritance" />
         <item itemvalue="Application.Lab147" />
         <item itemvalue="Application.Lab146" />
         <item itemvalue="Application.Lab145" />
-        <item itemvalue="Application.Lab143" />
       </list>
     </recent_temporary>
   </component>
@@ -431,7 +436,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724135639098</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="10thAUGUST">
+      <option name="closed" value="true" />
+      <created>1724232230601</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1724232230601</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -643,6 +656,11 @@
           <url>file://$PROJECT_DIR$/src/PracticeQues_07202024/PalindromeStringHardcoded.java</url>
           <line>10</line>
           <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ex_08112024/reallifeex/BaseClass.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="82" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/PracticeQues_07202024/LeftPatterStarProgram.java</url>
