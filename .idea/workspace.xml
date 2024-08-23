@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="302a974c-b094-4a7e-af67-0cc72b678c01" name="Changes" comment="10thAUGUST">
+    <list default="true" id="302a974c-b094-4a7e-af67-0cc72b678c01" name="Changes" comment="11thAUGUST">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/real_08042024/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_08042024/real_08042024/BaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/real_08042024/GrandBaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_08042024/real_08042024/GrandBaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/real_08042024/TestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_08042024/real_08042024/TestCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/real_08042024/TestCase1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_08042024/real_08042024/TestCase1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,6 +130,9 @@
     "Application.Lab146.executor": "Run",
     "Application.Lab147.executor": "Run",
     "Application.Lab149.executor": "Run",
+    "Application.Lab151.executor": "Run",
+    "Application.Lab152.executor": "Run",
+    "Application.Lab154.executor": "Run",
     "Application.Lan095.executor": "Run",
     "Application.LargestElementArray.executor": "Run",
     "Application.LeapYear.executor": "Run",
@@ -160,52 +159,52 @@
     "settings.editor.selected.configurable": "editor.preferences.gutterIcons"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab149">
-    <configuration name="Lab145" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_08102024.poly.methodoverriding.Lab145" />
-      <module name="ATB7xLearningJava1.0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_08102024.poly.methodoverriding.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab146" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_08102024.superthiskeyword.Lab146" />
-      <module name="ATB7xLearningJava1.0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_08102024.superthiskeyword.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab147" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_08102024.superthiskeyword.Lab147" />
-      <module name="ATB7xLearningJava1.0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_08102024.superthiskeyword.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab154">
     <configuration name="Lab149" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_08112024.excar.Lab149" />
+      <option name="MAIN_CLASS_NAME" value="ex_08112024.excarabstraction.Lab149" />
       <module name="ATB7xLearningJava1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_08112024.excar.*" />
+          <option name="PATTERN" value="ex_08112024.excarabstraction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab151" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_08112024.reallifeex.Lab151" />
+      <module name="ATB7xLearningJava1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_08112024.reallifeex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab152" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_08112024.Interface.Lab152" />
+      <module name="ATB7xLearningJava1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_08112024.Interface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab154" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_08112024.statickeyword.Lab154" />
+      <module name="ATB7xLearningJava1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_08112024.statickeyword.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -227,19 +226,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Lab151" />
+      <item itemvalue="Application.Lab152" />
+      <item itemvalue="Application.Lab154" />
       <item itemvalue="Application.Lab149" />
-      <item itemvalue="Application.Lab145" />
-      <item itemvalue="Application.Lab146" />
-      <item itemvalue="Application.Lab147" />
       <item itemvalue="Application.realtimeinheritance" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab154" />
+        <item itemvalue="Application.Lab152" />
+        <item itemvalue="Application.Lab151" />
         <item itemvalue="Application.Lab149" />
         <item itemvalue="Application.realtimeinheritance" />
-        <item itemvalue="Application.Lab147" />
-        <item itemvalue="Application.Lab146" />
-        <item itemvalue="Application.Lab145" />
       </list>
     </recent_temporary>
   </component>
@@ -444,7 +443,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724232230601</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="11thAUGUST">
+      <option name="closed" value="true" />
+      <created>1724242722164</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1724242722164</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -472,7 +479,8 @@
     <MESSAGE value="Palindrome" />
     <MESSAGE value="4thAUGUST" />
     <MESSAGE value="10thAUGUST" />
-    <option name="LAST_COMMIT_MESSAGE" value="10thAUGUST" />
+    <MESSAGE value="11thAUGUST" />
+    <option name="LAST_COMMIT_MESSAGE" value="11thAUGUST" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -715,6 +723,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ex_08112024/statickeyword/Lab154.java</url>
+          <line>6</line>
+          <properties class="ex_08112024.statickeyword.Lab154" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="83" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
