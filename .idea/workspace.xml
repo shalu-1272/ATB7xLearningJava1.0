@@ -133,6 +133,10 @@
     "Application.Lab151.executor": "Run",
     "Application.Lab152.executor": "Run",
     "Application.Lab154.executor": "Run",
+    "Application.Lab155.executor": "Run",
+    "Application.Lab157.executor": "Run",
+    "Application.Lab158.executor": "Run",
+    "Application.Lab160.executor": "Run",
     "Application.Lan095.executor": "Run",
     "Application.LargestElementArray.executor": "Run",
     "Application.LeapYear.executor": "Run",
@@ -159,46 +163,7 @@
     "settings.editor.selected.configurable": "editor.preferences.gutterIcons"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab154">
-    <configuration name="Lab149" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_08112024.excarabstraction.Lab149" />
-      <module name="ATB7xLearningJava1.0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_08112024.excarabstraction.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab151" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_08112024.reallifeex.Lab151" />
-      <module name="ATB7xLearningJava1.0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_08112024.reallifeex.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab152" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_08112024.Interface.Lab152" />
-      <module name="ATB7xLearningJava1.0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_08112024.Interface.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab160">
     <configuration name="Lab154" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_08112024.statickeyword.Lab154" />
       <module name="ATB7xLearningJava1.0" />
@@ -212,12 +177,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="realtimeinheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_08102024.realtimeinheritance" />
+    <configuration name="Lab155" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_08172024.WrapperClass.Lab155" />
       <module name="ATB7xLearningJava1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_08102024.*" />
+          <option name="PATTERN" value="ex_08172024.WrapperClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab157" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_08172024.WrapperClass.Lab157" />
+      <module name="ATB7xLearningJava1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_08172024.WrapperClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab158" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_08172024.WrapperClass.Lab158" />
+      <module name="ATB7xLearningJava1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_08172024.WrapperClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab160" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_08172024.WrapperClass.Lab160" />
+      <module name="ATB7xLearningJava1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_08172024.WrapperClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -226,19 +230,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lab151" />
-      <item itemvalue="Application.Lab152" />
+      <item itemvalue="Application.Lab155" />
+      <item itemvalue="Application.Lab157" />
+      <item itemvalue="Application.Lab158" />
+      <item itemvalue="Application.Lab160" />
       <item itemvalue="Application.Lab154" />
-      <item itemvalue="Application.Lab149" />
-      <item itemvalue="Application.realtimeinheritance" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab160" />
+        <item itemvalue="Application.Lab158" />
+        <item itemvalue="Application.Lab157" />
+        <item itemvalue="Application.Lab155" />
         <item itemvalue="Application.Lab154" />
-        <item itemvalue="Application.Lab152" />
-        <item itemvalue="Application.Lab151" />
-        <item itemvalue="Application.Lab149" />
-        <item itemvalue="Application.realtimeinheritance" />
       </list>
     </recent_temporary>
   </component>
@@ -451,7 +455,23 @@
       <option name="project" value="LOCAL" />
       <updated>1724242722164</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="11thAUGUST">
+      <option name="closed" value="true" />
+      <created>1724402933754</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1724402933754</updated>
+    </task>
+    <task id="LOCAL-00027" summary="11thAUGUST">
+      <option name="closed" value="true" />
+      <created>1724402939774</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1724402939774</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -670,6 +690,11 @@
           <line>2</line>
           <option name="timeStamp" value="82" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ex_08172024/WrapperClass/Lab157.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/PracticeQues_07202024/LeftPatterStarProgram.java</url>
           <line>3</line>
@@ -732,6 +757,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ex_08172024/WrapperClass/Lab160.java</url>
+          <line>4</line>
+          <properties class="ex_08172024.WrapperClass.Lab160" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="85" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
