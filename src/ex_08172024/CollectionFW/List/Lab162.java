@@ -13,6 +13,20 @@ public class Lab162 {
         List mylist = new ArrayList(); //dynamic Dispatch
         Collection mylist1 = new ArrayList();
 
+        mylist.add("pen");
+        mylist.add("marker");
+        mylist.add("sharpner");
+        mylist.add("123");
+
+        System.out.println(mylist);
+
+        System.out.println(mylist.get(2));
+        System.out.println(mylist.getFirst());
+        System.out.println(mylist.getLast());
+        System.out.println(mylist.contains("marker"));
+
+
+
 
     }
 }

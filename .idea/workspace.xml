@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="302a974c-b094-4a7e-af67-0cc72b678c01" name="Changes" comment="Wrapper Class">
+    <list default="true" id="302a974c-b094-4a7e-af67-0cc72b678c01" name="Changes" comment="Collection FW">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_08172024/WrapperClass/Lab161.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_08172024/WrapperClass/Lab161.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_08172024/WrapperClass/Lab164.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_08172024/WrapperClass/Lab164.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_08172024/CollectionFW/List/Lab162.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_08172024/CollectionFW/List/Lab162.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,6 +140,8 @@
     "Application.Lab158.executor": "Run",
     "Application.Lab160.executor": "Run",
     "Application.Lab161.executor": "Run",
+    "Application.Lab162.executor": "Run",
+    "Application.Lab163.executor": "Run",
     "Application.Lab165.executor": "Run",
     "Application.Lab166.executor": "Run",
     "Application.Lab167.executor": "Run",
@@ -180,7 +181,7 @@
       <recent name="ex_08172024" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab161">
+  <component name="RunManager" selected="Application.Lab163">
     <configuration name="Lab161" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_08172024.WrapperClass.Lab161" />
       <module name="ATB7xLearningJava1.0" />
@@ -194,12 +195,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab168" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_08172024.exceptionhandling.Lab168" />
+    <configuration name="Lab162" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_08172024.CollectionFW.List.Lab162" />
       <module name="ATB7xLearningJava1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_08172024.exceptionhandling.*" />
+          <option name="PATTERN" value="ex_08172024.CollectionFW.List.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -207,12 +208,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab169" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_08172024.exceptionhandling.Lab169" />
+    <configuration name="Lab163" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_08172024.CollectionFW.List.Lab163" />
       <module name="ATB7xLearningJava1.0" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_08172024.exceptionhandling.*" />
+          <option name="PATTERN" value="ex_08172024.CollectionFW.List.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -247,19 +248,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Lab163" />
       <item itemvalue="Application.Lab161" />
+      <item itemvalue="Application.Lab162" />
       <item itemvalue="Application.Lab170" />
       <item itemvalue="Application.Lab172" />
-      <item itemvalue="Application.Lab168" />
-      <item itemvalue="Application.Lab169" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab163" />
+        <item itemvalue="Application.Lab162" />
         <item itemvalue="Application.Lab161" />
         <item itemvalue="Application.Lab172" />
         <item itemvalue="Application.Lab170" />
-        <item itemvalue="Application.Lab169" />
-        <item itemvalue="Application.Lab168" />
       </list>
     </recent_temporary>
   </component>
@@ -504,7 +505,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724833980780</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Collection FW">
+      <option name="closed" value="true" />
+      <created>1724997439063</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1724997439065</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -534,7 +543,8 @@
     <MESSAGE value="10thAUGUST" />
     <MESSAGE value="11thAUGUST" />
     <MESSAGE value="Wrapper Class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Wrapper Class" />
+    <MESSAGE value="Collection FW" />
+    <option name="LAST_COMMIT_MESSAGE" value="Collection FW" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
